@@ -1,0 +1,5 @@
+{
+  "name": "Plan2World AI",
+  "description": "Convert 2D floor plans into 3D models using Gemini AI. Upload, crop, detect walls, and visualize in 3D.",
+  "requestFramePermissions": []
+}
